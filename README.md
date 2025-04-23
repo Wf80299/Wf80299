@@ -1,9 +1,9 @@
-<h1 > Me chamo Wendel!! </h1>
+<h1 > Me chamo Wendel Sá Ferreira!! </h1>
 
  <div>
    <a href="https://github.com/Wf80299">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wf80299&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wf80299&layout=compact&langs_count=6&theme=dark"/> 
+   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Wf80299&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wf80299&layout=compact&langs_count=6&theme=dark&card_width=320"/> 
 </div>
     
 <div style="display: inline_block"><br>
